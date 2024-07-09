@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoomDBExample</string>
+    <string name="add_details">Add Details</string>
+    <string name="retrive_details">Retrive Details</string>
+    <string name="update_details">Update Details</string>
+    <string name="delete_details">Delete Details</string>
+    <string name="note_description">Note Description</string>
+    <string name="note_title">Note Title</string>
+    <string name="add_note_details">Add Note Details</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
